@@ -1,2 +1,2 @@
 # GRIP-The-Sparks-Foundation-2021
-Tasks performed under the TSP internship.
+Data Science & Business Analytics tasks performed under the TSP internship.
